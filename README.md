@@ -4,8 +4,8 @@ The Weather Dashboard uses a third-party API that allows developers to access th
 
 ## Project Requirement
 
-•	This project required us to create a dashboard with form inputs. When inputs (such as city name) were searched for, the search will present with current and  
-  future weather conditions for that city and that city would be added to the search history.
+•	This project required us to create a dashboard with form inputs. When inputs such as city name were searched for, the search presented the current and  
+  future weather conditions for that city and the city searched was added to the search history.
 •	When viewing the current weather conditions for that city, the city name along with the date, an icon representing the weather conditions, temperature, humidity, 
   wind speed and the UV index is presented.
 •	When viewing the UV index, the weatherboard presents it with a colour that indicates whether the conditions are favourable, moderate or severe.
