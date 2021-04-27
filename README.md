@@ -28,5 +28,6 @@ The Weather Dashboard uses a third-party API that allows developers to access th
 
 #####Deployed Link
 
+https://macquarts.github.io/Weather-DashBoard/
 
 ####### Repository Link
