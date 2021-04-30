@@ -31,10 +31,12 @@ The Weather Dashboard uses a third-party API that allows developers to access th
 
 <img width="933" alt="weather2" src="https://user-images.githubusercontent.com/75565115/116654842-8c6f9200-a9bc-11eb-8afe-a361ffe3fad5.png">
 
-#####Deployed Link
+##### Deployed Link
 
 https://macquarts.github.io/Weather-DashBoard/
 
-####### Repository Link
+###### Repository Link
 https://github.com/Macquarts/Weather-DashBoard
 
+###### License  
+MIT
