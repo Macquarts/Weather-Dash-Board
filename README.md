@@ -14,10 +14,11 @@ The Weather Dashboard uses a third-party API that allows developers to access th
 -  When clicked on a city in the search history, it presents with the current and future conditions for that city.
 
 ### Name of the Contributors
-- Html
-- Bootstrap
-- JavaScript
-- Weather API - https://openweathermap.org/api
+
+-  Html
+-  Bootstrap
+-  JavaScript
+-  Weather API - https://openweathermap.org/api
 
 #### Instruction
 
@@ -27,16 +28,16 @@ The Weather Dashboard uses a third-party API that allows developers to access th
 •	When done, all search inputs can be displayed under the search tab. When clicked on the city, it presents you with the current and future conditions again.
 
 ###### Landing Page
-<img width="947" alt="weather1" src="https://user-images.githubusercontent.com/75565115/116654835-8aa5ce80-a9bc-11eb-936b-0cf2e2648a96.png">
 
-<img width="933" alt="weather2" src="https://user-images.githubusercontent.com/75565115/116654842-8c6f9200-a9bc-11eb-8afe-a361ffe3fad5.png">
+
+
 
 ##### Deployed Link
 
 https://macquarts.github.io/Weather-DashBoard/
 
 ###### Repository Link
-https://github.com/Macquarts/Weather-DashBoard
+
 
 ###### License  
 MIT
